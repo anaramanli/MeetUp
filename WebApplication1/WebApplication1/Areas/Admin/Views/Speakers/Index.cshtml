@@ -1,0 +1,49 @@
+﻿@using WebApplication1.ViewModels
+@model List<GetSpeakersAdminVM>
+<div class="card w-100">
+    <div class="card-body p-4">
+        <h5 class="card-title fw-semibold mb-4">Speakers</h5>
+        <div><a asp-action="Create" class="btn btn-primary">Create</a></div>
+
+        <div class="table-responsive">
+            <table class="table text-nowrap mb-0 align-middle">
+                <thead class="text-dark fs-4">
+                    <tr>
+                        <th class="border-bottom-0">
+                            <h6 class="fw-semibold mb-0">Id</h6>
+                        </th>
+                        <th class="border-bottom-0">
+                            <h6 class="fw-semibold mb-0">Name</h6>
+                        </th>
+                        <th class="border-bottom-0">
+                            <h6 class="fw-semibold mb-0">Img</h6>
+                        </th>
+                        <th class="border-bottom-0">
+                            <h6 class="fw-semibold mb-0">Description</h6>
+                        </th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="border-bottom-0"><h6 class="fw-semibold mb-0">@item.Id</h6></td>
+                            <td class="border-bottom-0">
+                                <h6 class="fw-semibold mb-1">@item.Name</h6>
+                                <span class="fw-normal">@item.</span>
+                            </td>
+                            <td class="border-bottom-0">
+                                <img src="~/assets/img/@item.ImageFile" width="50px" alt="Alternate Text" />
+                            
+                            <td class="border-bottom-0">
+                                <h6 class="fw-semibold mb-0 fs-4">@item.Description</h6>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

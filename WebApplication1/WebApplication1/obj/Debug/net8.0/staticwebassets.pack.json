@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\icons\\tabler-icons\\tabler-icons.css",
+      "PackagePath": "staticwebassets\\admin\\css\\icons\\tabler-icons\\tabler-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\backgrounds\\rocket.png",
+      "PackagePath": "staticwebassets\\admin\\images\\backgrounds\\rocket.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\logos\\dark-logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logos\\dark-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logos\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\products\\s1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\products\\s11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\s11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\products\\s4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\products\\s5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\products\\s7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\products\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\images\\profile\\user-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\profile\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\admin\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\0d43a24d-47e8-49b4-b081-496e61f94fe42020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\0d43a24d-47e8-49b4-b081-496e61f94fe42020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\1f0e5833-d23b-4b27-9338-ab209411818f2020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1f0e5833-d23b-4b27-9338-ab209411818f2020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\3012aa54-dcda-4e5b-83b9-cd01c1d517d02020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3012aa54-dcda-4e5b-83b9-cd01c1d517d02020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\3502a333-3907-4809-8a23-9ea0b3a0130f2020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3502a333-3907-4809-8a23-9ea0b3a0130f2020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\410999c9-2afe-4e50-b5a3-0bf6573a2b4c2020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\410999c9-2afe-4e50-b5a3-0bf6573a2b4c2020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\661ed5b4-5386-4f7d-aa6b-799026351f4d2020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\661ed5b4-5386-4f7d-aa6b-799026351f4d2020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\84699e28-abc3-4f33-b361-5b4b658b484b2020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\84699e28-abc3-4f33-b361-5b4b658b484b2020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\94d678c2-0912-44ee-b811-2c6a13e29ce12020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\94d678c2-0912-44ee-b811-2c6a13e29ce12020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\9b3c4ac4-7b36-4c24-944c-6cb97f734c002020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9b3c4ac4-7b36-4c24-944c-6cb97f734c002020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\assets\\img\\b851bf58-f7ca-4db9-a8ac-fa6f83f2fd0f2020-Porsche-911-Turbo-S-001-1080.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b851bf58-f7ca-4db9-a8ac-fa6f83f2fd0f2020-Porsche-911-Turbo-S-001-1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\dosis-font.css",
+      "PackagePath": "staticwebassets\\css\\dosis-font.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\dosis\\3isE9muMMOq1K7TQ7HkKvIDGDUGfDkXyfkzVDelzfFk.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\3isE9muMMOq1K7TQ7HkKvIDGDUGfDkXyfkzVDelzfFk.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\dosis\\O6SOu9hYsPHTU43R17NS5XYhjbSpvc47ee6xR_80Hnw.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\O6SOu9hYsPHTU43R17NS5XYhjbSpvc47ee6xR_80Hnw.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\dosis\\RPKDmaFi75RJkvjWaDDb0nYhjbSpvc47ee6xR_80Hnw.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\RPKDmaFi75RJkvjWaDDb0nYhjbSpvc47ee6xR_80Hnw.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\dosis\\VK-RlLrn4NFhRGqPkj6IwBkAz4rYn47Zy2rvigWQf6w.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\VK-RlLrn4NFhRGqPkj6IwBkAz4rYn47Zy2rvigWQf6w.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\dosis\\oaBFj7Fz9Y9_eW3k9Jd9X6CWcynf_cDxXwCLxiixG1c.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dosis\\oaBFj7Fz9Y9_eW3k9Jd9X6CWcynf_cDxXwCLxiixG1c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\meetup-logo.png",
+      "PackagePath": "staticwebassets\\img\\meetup-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\rocket.png",
+      "PackagePath": "staticwebassets\\img\\rocket.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\speaker-1.png",
+      "PackagePath": "staticwebassets\\img\\speaker-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\speaker-2.png",
+      "PackagePath": "staticwebassets\\img\\speaker-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\speaker-3.png",
+      "PackagePath": "staticwebassets\\img\\speaker-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\speaker-4.png",
+      "PackagePath": "staticwebassets\\img\\speaker-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\speaker-5.png",
+      "PackagePath": "staticwebassets\\img\\speaker-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\img\\speaker-6.png",
+      "PackagePath": "staticwebassets\\img\\speaker-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\js\\scrolling-nav.js",
+      "PackagePath": "staticwebassets\\js\\scrolling-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\wwwroot\\js\\validator.js",
+      "PackagePath": "staticwebassets\\js\\validator.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
