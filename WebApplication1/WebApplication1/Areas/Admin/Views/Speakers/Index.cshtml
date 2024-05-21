@@ -21,6 +21,10 @@
                         <th class="border-bottom-0">
                             <h6 class="fw-semibold mb-0">Description</h6>
                         </th>
+                        <th class="border-bottom-0">
+                            <h6 class="fw-semibold mb-0">Action</h6>
+
+                        </th>
                         
                     </tr>
                 </thead>
@@ -31,14 +35,19 @@
                             <td class="border-bottom-0"><h6 class="fw-semibold mb-0">@item.Id</h6></td>
                             <td class="border-bottom-0">
                                 <h6 class="fw-semibold mb-1">@item.Name</h6>
-                                <span class="fw-normal">@item.</span>
+                                
                             </td>
                             <td class="border-bottom-0">
                                 <img src="~/assets/img/@item.ImageFile" width="50px" alt="Alternate Text" />
-                            
+
                             <td class="border-bottom-0">
                                 <h6 class="fw-semibold mb-0 fs-4">@item.Description</h6>
                             </td>
+                            <td class="border-bottom-0">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                            </td>
+                            
                         </tr>
 
                     }

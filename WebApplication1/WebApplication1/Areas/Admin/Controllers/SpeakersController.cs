@@ -54,44 +54,47 @@ namespace WebApplication1.Areas.Admin.Controllers
         }
 
         // GET: SpeakersController/Edit/5
-        public ActionResult Edit(int id)
+        public async Task<ActionResult> Edit(int id)
         {
-            return View();
+            var speaker = await _context.Speakers.FindAsync(id);
+            if (speaker == null) return View("Error");
+            var model = new EditSpeakersVM
+            {
+                Description = speaker.Description,
+                Name = speaker.Name,
+                SocialMedia = speaker.SocialMedia,
+            };
+            return View(model);
         }
 
         // POST: SpeakersController/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<ActionResult> Edit(int? id, EditSpeakersVM editSpeakersVM)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            
+            if (id == null) return View("Error");
+            var existed = _context.Speakers.FirstOrDefault(s => s.Id == id);
+            if (existed == null) return View(BadRequest());
+            existed.Name = editSpeakersVM.Name;
+            existed.UpdatedTime = DateTime.Now;
+            existed.Description = editSpeakersVM.Description;
+            existed.SocialMedia = editSpeakersVM.SocialMedia;
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index"); 
+            
         }
 
-        // GET: SpeakersController/Delete/5
-        public ActionResult Delete(int id)
+        
+        public async Task<ActionResult> Delete(int id)
         {
-            return View();
-        }
-
-        // POST: SpeakersController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
+            if (!ModelState.IsValid)
             {
-                return RedirectToAction(nameof(Index));
+                return View("Error");
             }
-            catch
-            {
-                return View();
-            }
+            var delete= await _context.Speakers.FindAsync(id);
+            _context.Remove(delete);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
         }
     }
 }

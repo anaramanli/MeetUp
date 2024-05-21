@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\webapplication1\\webapplication1\\areas\\admin\\views\\speakers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\speakers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\webapplication1\\webapplication1\\areas\\admin\\views\\speakers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\speakers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\webapplication1\\webapplication1\\areas\\admin\\controllers\\speakerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\speakerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\meetup\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C658F0-EB4E-48BC-8071-EF781A45B125}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 249,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA8AAACIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:49:35.254Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SpeakersController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\SpeakersController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\SpeakersController.cs",
-              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\SpeakersController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\SpeakersController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T07:10:01.261Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T08:23:41.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Speakers\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Speakers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Speakers\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Speakers\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T05:53:31.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Speakers\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Speakers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Speakers\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Speakers\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T04:58:09.211Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MeetUp\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:23:38.887Z",
               "EditorCaption": ""
             }
           ]

@@ -1,12 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using WebApplication1.DAL;
 
 namespace WebApplication1.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(MeetUpContext _context) : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _context.Speakers.ToListAsync());
         }
     }
 }
